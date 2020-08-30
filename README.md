@@ -4,4 +4,4 @@
 * code參考自https://github.com/KBJIYU/smart-copy-from-en-pdf-exe
 * 範例影片:
 
-![](https://i.imgur.com/h2uLUwN.gif)
+[![](https://i.imgur.com/h2uLUwN.gif)](https://i.imgur.com/h2uLUwN.gif)
