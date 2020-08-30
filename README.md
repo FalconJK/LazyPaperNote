@@ -3,6 +3,6 @@
 * 下載zip，解開執行exe即可使用!
 * 請先切到英文再輸入數字
 * code參考自https://github.com/KBJIYU/smart-copy-from-en-pdf-exe
-* 範例影片:
+* 使用範例(點選可放大):
 
 [![](https://i.imgur.com/h2uLUwN.gif)](https://i.imgur.com/h2uLUwN.gif)
